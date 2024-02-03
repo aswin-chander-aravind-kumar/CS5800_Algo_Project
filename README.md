@@ -1,4 +1,4 @@
-# Streamlining Job Applicaitons Using Priority Based Scheduling
+# Streamlining Job Applications Using Priority Based Scheduling
 
 **Skills Acquired :** Data Analysis and Visualization, Algorithm Design, Python, Microsoft Office Suites, Problem Solving<br/>
 
